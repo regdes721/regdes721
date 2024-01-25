@@ -27,7 +27,9 @@ I am an ideal fit for your company due to my adaptability, quick learning, and c
 ### More about me:
 
 🔭 I’m currently working on adding Cart and Wishlist Features to my [Museum Central](https://museum-central.onrender.com/) website.
+
 📚 I'm currently reading [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear.
+
 📫 You can reach me via email at reginald.j.desrosiers@gmail.com or via phone at (269) 362-5661.
 
 <!--
