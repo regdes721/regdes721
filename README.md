@@ -17,11 +17,18 @@ I am an ideal fit for your company due to my adaptability, quick learning, and c
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="40" height="40"/>&nbsp;
   <img src="https://cdn.freebiesupply.com/logos/large/2x/flask-logo-png-transparent.png" title="Flask" alt="Flask " width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/express/express-original-wordmark.svg" title="Express" alt="Express " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL " width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://i.morioh.com/9f75e619b0.png" title="Websockets" **alt="Websockets" width="40" height="40"/>
 </div>
+
+### More about me:
+
+🔭 I’m currently working on adding Cart and Wishlist Features to my [Museum Central](https://museum-central.onrender.com/) website.
+📚 I'm currently reading [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear.
+📫 You can reach me via email at reginald.j.desrosiers@gmail.com or via phone at (269) 362-5661.
 
 <!--
 **regdes721/regdes721** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
