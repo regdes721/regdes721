@@ -33,7 +33,11 @@ I am an ideal fit for your company due to my adaptability, quick learning, and c
 
 🔭 I’m currently working on adding Cart and Wishlist Features to my [Museum Central](https://museum-central.onrender.com/) website.
 
-📚 I'm currently reading [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear.
+📚 I'm currently reading:
+  <ul>
+    <li><a href="https://jamesclear.com/atomic-habits" target="_blank">Atomic Habits</a> by James Clear.</li>
+    <li><a href="https://www.amazon.com/Three-Theban-Plays-Antigone-Oedipus/dp/0140444254/ref=asc_df_0140444254&mcid=2c2f467cdf3338acab1ae19b5cd1b003?tag=bingshoppinga-20&linkCode=df0&hvadid=80745440604554&hvnetw=o&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584345029256777&psc=1" target="_blank">Oedipus Rex</a> by Sophocles.</li>
+  </ul>
 
 📫 You can reach me via email at reginald.j.desrosiers@gmail.com or via phone at (269) 362-5661.
 
