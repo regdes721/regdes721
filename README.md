@@ -8,7 +8,7 @@ App Academy equipped me with practical skills and technologies, transforming me 
 
 I am an ideal fit for your company due to my adaptability, quick learning, and creative application of skills. With a diverse background and technical expertise from App Academy, I am a well-rounded software engineer ready to contribute effectively to your team. I look forward to bringing my unique perspective and skills to enhance your company's projects and goals.
 
-### I am proficient at the following languages and technologies:
+### 💻 I am proficient at the following languages and technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50">
   <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
