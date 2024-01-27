@@ -31,7 +31,7 @@ I am an ideal fit for your company due to my adaptability, quick learning, and c
 
 ### More about me:
 
-🔭 I’m currently working on adding Cart and Wishlist Features to my [Museum Central](https://museum-central.onrender.com/) website.
+🔭 I’m currently working on adding Cart Feaatures, Wishlist Features, Media Queries, and CSS Styling to my [Museum Central](https://museum-central.onrender.com/) website.
 
 📚 I'm currently reading:
   <ul>
