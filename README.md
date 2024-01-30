@@ -11,7 +11,7 @@ I am an ideal fit for your company due to my adaptability, quick learning, and c
 ### 💻 I am proficient at the following languages and technologies:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50">
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50" height="50"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="50" height="50"/>&nbsp;
@@ -31,7 +31,14 @@ I am an ideal fit for your company due to my adaptability, quick learning, and c
 
 ### More about me:
 
-🔭 I’m currently working on adding Cart Feaatures, Wishlist Features, Media Queries, and CSS Styling to my [Museum Central](https://museum-central.onrender.com/) website.
+🔭 I’m currently working on adding the following to my [Museum Central](https://museum-central.onrender.com/) website:
+<ul>
+  <li>Wishlist Feature</li>
+  <li>Google Maps Feature</li>
+  <li>Search Feature</li>
+  <li>Media Queries</li>
+  <li>CSS Styling</li>
+</ul>
 
 📚 I'm currently reading [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear.
 
