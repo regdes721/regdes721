@@ -42,7 +42,7 @@ I am an ideal fit for your company due to my adaptability, quick learning, and c
 
 📚 I'm currently reading [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear.
 
-🗣️ I'm currently learning Latin using Duolingo.
+🗣️ I'm currently learning Latin via Duolingo.
 
 📫 You can reach me via email at reginald.j.desrosiers@gmail.com or via phone at (269) 362-5661.
 
