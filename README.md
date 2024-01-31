@@ -40,7 +40,11 @@ I am an ideal fit for your company due to my adaptability, quick learning, and c
   <li>CSS Styling</li>
 </ul>
 
-📚 I'm currently reading [Atomic Habits](https://jamesclear.com/atomic-habits) by James Clear.
+📚 I'm currently reading:
+<ul>
+  <li><a href="https://jamesclear.com/atomic-habits">Atomic Habits</a> by James Clear</li>
+  <li><a href="https://github.com/lvndry/how-to-stand-out-as-a-software-engineer/blob/main/how_to_stand_out_as_a_software_engineer.pdf">How To Stand Out As A Software Engineer</a> by Landry Monga</li>
+</ul>
 
 🗣️ I'm currently learning Latin via Duolingo.
 
