@@ -29,12 +29,14 @@ After working in various customer-facing roles (including Tech Sales), I decided
 
 🔭 I’m currently working on adding the following to my [Museum Central](https://museum-central.onrender.com/) website:
 <ul>
-  <li>Wishlist Feature</li>
   <li>Google Maps Feature</li>
   <li>Search Feature</li>
   <li>Media Queries</li>
   <li>CSS Styling</li>
 </ul>
+
+📚 I'm currently reading [the Iliad](https://www.amazon.com/Iliad-Homer/dp/0140275363) by Homer.
+
 
 🗣️ I'm currently learning Latin via Duolingo.
 
