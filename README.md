@@ -35,8 +35,11 @@ After working in various customer-facing roles (including Tech Sales), I decided
   <li>CSS Styling</li>
 </ul>
 
-📚 I'm currently reading [the Iliad](https://www.amazon.com/Iliad-Homer/dp/0140275363) by Homer.
-
+📚 I'm currently reading: 
+<ul>
+  <li><a href="https://www.amazon.com/Iliad-Homer/dp/0140275363">The Iliad</a> by Homer</li>
+  <li><a href="https://leanpub.com/firstyearincode">Your First Year in Code</a> by Isaac Lyman et al.</li>
+</ul>
 
 🗣️ I'm currently learning Latin via Duolingo.
 
