@@ -29,7 +29,7 @@ After working in various customer-facing roles (including Tech Sales), I decided
 
 🔭 I’m currently working on adding the following to my [Museum Central](https://museum-central.onrender.com/) website:
 <ul>
-  <li>Google Maps Feature</li>
+  <li>Orders Feature</li>
   <li>Search Feature</li>
   <li>Media Queries</li>
   <li>CSS Styling</li>
@@ -38,7 +38,6 @@ After working in various customer-facing roles (including Tech Sales), I decided
 📚 I'm currently reading: 
 <ul>
   <li><a href="https://www.amazon.com/Iliad-Homer/dp/0140275363">The Iliad</a> by Homer</li>
-  <li><a href="https://leanpub.com/firstyearincode">Your First Year in Code</a> by Isaac Lyman et al.</li>
 </ul>
 
 🗣️ I'm currently learning Latin via Duolingo.
